@@ -3,28 +3,20 @@
   "WorkspaceRootPath": "D:\\LocalRepository\\DotNetRepo\\ConsoleApps\\DotNetApp-Apr-26\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DC4ED957-E8A3-B093-2A73-E7ED3CB2F431}|DotNetApp\\DotNetApp.csproj|d:\\localrepository\\dotnetrepo\\consoleapps\\dotnetapp-apr-26\\dotnetapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DC4ED957-E8A3-B093-2A73-E7ED3CB2F431}|DotNetApp\\DotNetApp.csproj|solutionrelative:dotnetapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DC4ED957-E8A3-B093-2A73-E7ED3CB2F431}|DotNetApp\\DotNetApp.csproj|d:\\localrepository\\dotnetrepo\\consoleapps\\dotnetapp-apr-26\\dotnetapp\\car\\maruti\\swift.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DC4ED957-E8A3-B093-2A73-E7ED3CB2F431}|DotNetApp\\DotNetApp.csproj|solutionrelative:dotnetapp\\car\\maruti\\swift.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DC4ED957-E8A3-B093-2A73-E7ED3CB2F431}|DotNetApp\\DotNetApp.csproj|d:\\localrepository\\dotnetrepo\\consoleapps\\dotnetapp-apr-26\\dotnetapp\\basictopics\\calculation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC4ED957-E8A3-B093-2A73-E7ED3CB2F431}|DotNetApp\\DotNetApp.csproj|solutionrelative:dotnetapp\\basictopics\\calculation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DC4ED957-E8A3-B093-2A73-E7ED3CB2F431}|DotNetApp\\DotNetApp.csproj|d:\\localrepository\\dotnetrepo\\consoleapps\\dotnetapp-apr-26\\dotnetapp\\car\\hyundai\\creta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DC4ED957-E8A3-B093-2A73-E7ED3CB2F431}|DotNetApp\\DotNetApp.csproj|solutionrelative:dotnetapp\\car\\hyundai\\creta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DC4ED957-E8A3-B093-2A73-E7ED3CB2F431}|DotNetApp\\DotNetApp.csproj|d:\\localrepository\\dotnetrepo\\consoleapps\\dotnetapp-apr-26\\dotnetapp\\car\\mahindra\\thar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DC4ED957-E8A3-B093-2A73-E7ED3CB2F431}|DotNetApp\\DotNetApp.csproj|solutionrelative:dotnetapp\\car\\mahindra\\thar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DC4ED957-E8A3-B093-2A73-E7ED3CB2F431}|DotNetApp\\DotNetApp.csproj|d:\\localrepository\\dotnetrepo\\consoleapps\\dotnetapp-apr-26\\dotnetapp\\abstraction\\cars\\icar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC4ED957-E8A3-B093-2A73-E7ED3CB2F431}|DotNetApp\\DotNetApp.csproj|solutionrelative:dotnetapp\\abstraction\\cars\\icar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DC4ED957-E8A3-B093-2A73-E7ED3CB2F431}|DotNetApp\\DotNetApp.csproj|d:\\localrepository\\dotnetrepo\\consoleapps\\dotnetapp-apr-26\\dotnetapp\\abstraction\\ivehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DC4ED957-E8A3-B093-2A73-E7ED3CB2F431}|DotNetApp\\DotNetApp.csproj|solutionrelative:dotnetapp\\abstraction\\ivehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DC4ED957-E8A3-B093-2A73-E7ED3CB2F431}|DotNetApp\\DotNetApp.csproj|d:\\localrepository\\dotnetrepo\\consoleapps\\dotnetapp-apr-26\\dotnetapp\\abstraction\\cars\\icar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DC4ED957-E8A3-B093-2A73-E7ED3CB2F431}|DotNetApp\\DotNetApp.csproj|solutionrelative:dotnetapp\\abstraction\\cars\\icar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DC4ED957-E8A3-B093-2A73-E7ED3CB2F431}|DotNetApp\\DotNetApp.csproj|d:\\localrepository\\dotnetrepo\\consoleapps\\dotnetapp-apr-26\\dotnetapp\\abstraction\\cars\\ityres.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -37,6 +29,14 @@
     {
       "AbsoluteMoniker": "D:0:0:{DC4ED957-E8A3-B093-2A73-E7ED3CB2F431}|DotNetApp\\DotNetApp.csproj|d:\\localrepository\\dotnetrepo\\consoleapps\\dotnetapp-apr-26\\dotnetapp\\basictopics\\stringextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DC4ED957-E8A3-B093-2A73-E7ED3CB2F431}|DotNetApp\\DotNetApp.csproj|solutionrelative:dotnetapp\\basictopics\\stringextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC4ED957-E8A3-B093-2A73-E7ED3CB2F431}|DotNetApp\\DotNetApp.csproj|d:\\localrepository\\dotnetrepo\\consoleapps\\dotnetapp-apr-26\\dotnetapp\\car\\maruti\\swift.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC4ED957-E8A3-B093-2A73-E7ED3CB2F431}|DotNetApp\\DotNetApp.csproj|solutionrelative:dotnetapp\\car\\maruti\\swift.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC4ED957-E8A3-B093-2A73-E7ED3CB2F431}|DotNetApp\\DotNetApp.csproj|d:\\localrepository\\dotnetrepo\\consoleapps\\dotnetapp-apr-26\\dotnetapp\\car\\mahindra\\thar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC4ED957-E8A3-B093-2A73-E7ED3CB2F431}|DotNetApp\\DotNetApp.csproj|solutionrelative:dotnetapp\\car\\mahindra\\thar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -51,56 +51,43 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\LocalRepository\\DotNetRepo\\ConsoleApps\\DotNetApp-Apr-26\\DotNetApp\\Program.cs",
-              "RelativeDocumentMoniker": "DotNetApp\\Program.cs",
-              "ToolTip": "D:\\LocalRepository\\DotNetRepo\\ConsoleApps\\DotNetApp-Apr-26\\DotNetApp\\Program.cs",
-              "RelativeToolTip": "DotNetApp\\Program.cs",
-              "ViewState": "AgIAAIcBAAAAAAAAAAAAADEAAAAJAAAAAAAAAA==",
+              "Title": "Calculation.cs",
+              "DocumentMoniker": "D:\\LocalRepository\\DotNetRepo\\ConsoleApps\\DotNetApp-Apr-26\\DotNetApp\\BasicTopics\\Calculation.cs",
+              "RelativeDocumentMoniker": "DotNetApp\\BasicTopics\\Calculation.cs",
+              "ToolTip": "D:\\LocalRepository\\DotNetRepo\\ConsoleApps\\DotNetApp-Apr-26\\DotNetApp\\BasicTopics\\Calculation.cs",
+              "RelativeToolTip": "DotNetApp\\BasicTopics\\Calculation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-13T16:31:54.711Z",
-              "IsPinned": true,
+              "WhenOpened": "2026-06-03T06:57:26.947Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Swift.cs",
-              "DocumentMoniker": "D:\\LocalRepository\\DotNetRepo\\ConsoleApps\\DotNetApp-Apr-26\\DotNetApp\\Car\\Maruti\\Swift.cs",
-              "RelativeDocumentMoniker": "DotNetApp\\Car\\Maruti\\Swift.cs",
-              "ToolTip": "D:\\LocalRepository\\DotNetRepo\\ConsoleApps\\DotNetApp-Apr-26\\DotNetApp\\Car\\Maruti\\Swift.cs",
-              "RelativeToolTip": "DotNetApp\\Car\\Maruti\\Swift.cs",
-              "ViewState": "AgIAACkAAAAAAAAAAAAswDIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-21T12:54:26.315Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 2,
               "Title": "ICar.cs",
               "DocumentMoniker": "D:\\LocalRepository\\DotNetRepo\\ConsoleApps\\DotNetApp-Apr-26\\DotNetApp\\Abstraction\\Cars\\ICar.cs",
               "RelativeDocumentMoniker": "DotNetApp\\Abstraction\\Cars\\ICar.cs",
               "ToolTip": "D:\\LocalRepository\\DotNetRepo\\ConsoleApps\\DotNetApp-Apr-26\\DotNetApp\\Abstraction\\Cars\\ICar.cs",
               "RelativeToolTip": "DotNetApp\\Abstraction\\Cars\\ICar.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAA5AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-21T05:26:26.943Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 5,
               "Title": "ITruck.cs",
               "DocumentMoniker": "D:\\LocalRepository\\DotNetRepo\\ConsoleApps\\DotNetApp-Apr-26\\DotNetApp\\Abstraction\\Cars\\ITruck.cs",
               "RelativeDocumentMoniker": "DotNetApp\\Abstraction\\Cars\\ITruck.cs",
               "ToolTip": "D:\\LocalRepository\\DotNetRepo\\ConsoleApps\\DotNetApp-Apr-26\\DotNetApp\\Abstraction\\Cars\\ITruck.cs",
               "RelativeToolTip": "DotNetApp\\Abstraction\\Cars\\ITruck.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-21T12:29:45.208Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 4,
               "Title": "ITyres.cs",
               "DocumentMoniker": "D:\\LocalRepository\\DotNetRepo\\ConsoleApps\\DotNetApp-Apr-26\\DotNetApp\\Abstraction\\Cars\\ITyres.cs",
               "RelativeDocumentMoniker": "DotNetApp\\Abstraction\\Cars\\ITyres.cs",
@@ -112,19 +99,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "IVehicle.cs",
               "DocumentMoniker": "D:\\LocalRepository\\DotNetRepo\\ConsoleApps\\DotNetApp-Apr-26\\DotNetApp\\Abstraction\\IVehicle.cs",
               "RelativeDocumentMoniker": "DotNetApp\\Abstraction\\IVehicle.cs",
               "ToolTip": "D:\\LocalRepository\\DotNetRepo\\ConsoleApps\\DotNetApp-Apr-26\\DotNetApp\\Abstraction\\IVehicle.cs",
               "RelativeToolTip": "DotNetApp\\Abstraction\\IVehicle.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-21T05:23:28.48Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 8,
               "Title": "Thar.cs",
               "DocumentMoniker": "D:\\LocalRepository\\DotNetRepo\\ConsoleApps\\DotNetApp-Apr-26\\DotNetApp\\Car\\Mahindra\\Thar.cs",
               "RelativeDocumentMoniker": "DotNetApp\\Car\\Mahindra\\Thar.cs",
@@ -136,27 +123,39 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Creta.cs",
               "DocumentMoniker": "D:\\LocalRepository\\DotNetRepo\\ConsoleApps\\DotNetApp-Apr-26\\DotNetApp\\Car\\Hyundai\\Creta.cs",
               "RelativeDocumentMoniker": "DotNetApp\\Car\\Hyundai\\Creta.cs",
               "ToolTip": "D:\\LocalRepository\\DotNetRepo\\ConsoleApps\\DotNetApp-Apr-26\\DotNetApp\\Car\\Hyundai\\Creta.cs",
               "RelativeToolTip": "DotNetApp\\Car\\Hyundai\\Creta.cs",
-              "ViewState": "AgIAAC4AAAAAAAAAAADwvzsAAAArAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-21T12:46:23.011Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 6,
               "Title": "StringExtensions.cs",
               "DocumentMoniker": "D:\\LocalRepository\\DotNetRepo\\ConsoleApps\\DotNetApp-Apr-26\\DotNetApp\\BasicTopics\\StringExtensions.cs",
               "RelativeDocumentMoniker": "DotNetApp\\BasicTopics\\StringExtensions.cs",
               "ToolTip": "D:\\LocalRepository\\DotNetRepo\\ConsoleApps\\DotNetApp-Apr-26\\DotNetApp\\BasicTopics\\StringExtensions.cs",
               "RelativeToolTip": "DotNetApp\\BasicTopics\\StringExtensions.cs",
-              "ViewState": "AgIAABwAAAAAHxrrN2oJwCUAAAAoAAAAAAAAAA==",
+              "ViewState": "AgIAAAUAAADgQ2P9Ri0wwAoAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-23T04:53:37.238Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Swift.cs",
+              "DocumentMoniker": "D:\\LocalRepository\\DotNetRepo\\ConsoleApps\\DotNetApp-Apr-26\\DotNetApp\\Car\\Maruti\\Swift.cs",
+              "RelativeDocumentMoniker": "DotNetApp\\Car\\Maruti\\Swift.cs",
+              "ToolTip": "D:\\LocalRepository\\DotNetRepo\\ConsoleApps\\DotNetApp-Apr-26\\DotNetApp\\Car\\Maruti\\Swift.cs",
+              "RelativeToolTip": "DotNetApp\\Car\\Maruti\\Swift.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAswDIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-21T12:54:26.315Z"
             }
           ]
         }

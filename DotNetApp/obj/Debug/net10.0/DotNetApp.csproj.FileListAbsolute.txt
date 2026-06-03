@@ -26,3 +26,4 @@ D:\LocalRepository\DotNetRepo\ConsoleApps\DotNetApp-Apr-26\DotNetApp\obj\Debug\n
 D:\LocalRepository\DotNetRepo\ConsoleApps\DotNetApp-Apr-26\DotNetApp\obj\Debug\net10.0\DotNetApp.pdb
 D:\LocalRepository\DotNetRepo\ConsoleApps\DotNetApp-Apr-26\DotNetApp\obj\Debug\net10.0\DotNetApp.genruntimeconfig.cache
 D:\LocalRepository\DotNetRepo\ConsoleApps\DotNetApp-Apr-26\DotNetApp\obj\Debug\net10.0\ref\DotNetApp.dll
+D:\LocalRepository\DotNetRepo\ConsoleApps\DotNetApp-Apr-26\DotNetApp\obj\Debug\net10.0\DotNetApp.sourcelink.json
