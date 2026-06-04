@@ -4,7 +4,7 @@ using System.Text;
 
 namespace DotNetApp.BasicTopics
 {
-    internal class Calculation
+    internal class GenricM
     {
         public static bool Compare(int a, int b)
         {

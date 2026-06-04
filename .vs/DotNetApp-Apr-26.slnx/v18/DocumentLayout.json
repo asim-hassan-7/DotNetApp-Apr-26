@@ -7,8 +7,8 @@
       "RelativeMoniker": "D:0:0:{DC4ED957-E8A3-B093-2A73-E7ED3CB2F431}|DotNetApp\\DotNetApp.csproj|solutionrelative:dotnetapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DC4ED957-E8A3-B093-2A73-E7ED3CB2F431}|DotNetApp\\DotNetApp.csproj|d:\\localrepository\\dotnetrepo\\consoleapps\\dotnetapp-apr-26\\dotnetapp\\basictopics\\calculation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DC4ED957-E8A3-B093-2A73-E7ED3CB2F431}|DotNetApp\\DotNetApp.csproj|solutionrelative:dotnetapp\\basictopics\\calculation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DC4ED957-E8A3-B093-2A73-E7ED3CB2F431}|DotNetApp\\DotNetApp.csproj|d:\\localrepository\\dotnetrepo\\consoleapps\\dotnetapp-apr-26\\dotnetapp\\basictopics\\genricm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC4ED957-E8A3-B093-2A73-E7ED3CB2F431}|DotNetApp\\DotNetApp.csproj|solutionrelative:dotnetapp\\basictopics\\genricm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DC4ED957-E8A3-B093-2A73-E7ED3CB2F431}|DotNetApp\\DotNetApp.csproj|d:\\localrepository\\dotnetrepo\\consoleapps\\dotnetapp-apr-26\\dotnetapp\\car\\hyundai\\creta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -60,21 +60,25 @@
               "RelativeDocumentMoniker": "DotNetApp\\Program.cs",
               "ToolTip": "D:\\LocalRepository\\DotNetRepo\\ConsoleApps\\DotNetApp-Apr-26\\DotNetApp\\Program.cs",
               "RelativeToolTip": "DotNetApp\\Program.cs",
-              "ViewState": "AgIAAL0CAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAFgAAAAAAAAAAAAQwCIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-06-03T07:00:05.974Z",
               "IsPinned": true,
               "EditorCaption": ""
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Calculation.cs",
-              "DocumentMoniker": "D:\\LocalRepository\\DotNetRepo\\ConsoleApps\\DotNetApp-Apr-26\\DotNetApp\\BasicTopics\\Calculation.cs",
-              "RelativeDocumentMoniker": "DotNetApp\\BasicTopics\\Calculation.cs",
-              "ToolTip": "D:\\LocalRepository\\DotNetRepo\\ConsoleApps\\DotNetApp-Apr-26\\DotNetApp\\BasicTopics\\Calculation.cs",
-              "RelativeToolTip": "DotNetApp\\BasicTopics\\Calculation.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAzAAAAAAAAAA==",
+              "Title": "GenricM.cs",
+              "DocumentMoniker": "D:\\LocalRepository\\DotNetRepo\\ConsoleApps\\DotNetApp-Apr-26\\DotNetApp\\BasicTopics\\GenricM.cs",
+              "RelativeDocumentMoniker": "DotNetApp\\BasicTopics\\GenricM.cs",
+              "ToolTip": "D:\\LocalRepository\\DotNetRepo\\ConsoleApps\\DotNetApp-Apr-26\\DotNetApp\\BasicTopics\\GenricM.cs",
+              "RelativeToolTip": "DotNetApp\\BasicTopics\\GenricM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-06-03T06:57:26.947Z",
               "EditorCaption": ""

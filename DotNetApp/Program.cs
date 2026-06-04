@@ -37,6 +37,22 @@ class Program
         //CarHelper.ShowCarDetails(creta, "Creta");))
     {
 
+        //Genric class 03-06-2026
+
+        bool comp1 = GenricM.Compare(10, 20);
+        Console.WriteLine($"First Integer is equal to Second Integer: {comp1}");
+
+
+        bool comp2 = GenricM.Compare("10", "10");
+        Console.WriteLine($"First String is equal to Second String: {comp2}");
+
+        bool genComp1 = GenricM.GenericCompare<int>(100, 100);
+        Console.WriteLine($"First Integer is equal to Second Integer: {genComp1}");
+
+
+        bool genComp2 = GenricM.GenericCompare<string>("noname", "name");
+        Console.WriteLine($"First String is equal to Second String: {genComp2}");
+
         //01-06-2026
         //Array At Class+Home
 
@@ -60,7 +76,7 @@ class Program
         //{
 
         //    Console.WriteLine(i);
-        
+
         //}
 
         //object[] arr3 = new object[3];
@@ -104,9 +120,6 @@ class Program
         //ITyres v6 = new Creta();
         //v6.Brake();
         //Console.WriteLine("=====================\n");
-
-
-
 
 
 
@@ -547,12 +560,6 @@ class Program
 
 
 
-
-
-
-
-
-
         //EncapPracAtClass
 
 
@@ -707,15 +714,7 @@ class Program
         //dev8.SetData("Teacher","12345");
         //dev8.ShowData();
 
-        bool comp1 = Calculation.Compare(10, 20);
-        Console.WriteLine($"First Integer is equal to Second Integer: {comp1}");
-        bool comp2 = Calculation.Compare("10", "10");
-        Console.WriteLine($"First String is equal to Second String: {comp2}");
 
-        bool genComp1 = Calculation.GenericCompare<int>(100, 100);
-        Console.WriteLine($"First Integer is equal to Second Integer: {genComp1}");
-        bool genComp2 = Calculation.GenericCompare<string>("noname", "name");
-        Console.WriteLine($"First String is equal to Second String: {genComp2}");
 
 
 
