@@ -4,20 +4,20 @@ using System.Text;
 
 namespace DotNetApp.BasicTopics
 {
-    internal class Employee
+    internal class Employee:Student
     {
-        public int Id;
-        public string Name = ("");
-        public int Salary;
+     
+        private int Salary;
 
 
 
 
-        public void SetEmployeeData(int i, string n, int s)
+        public void SetEmployeeData(int id, string name, int salary)
         {
-         Id=i;
-            Name=n; 
-            Salary=s;
+            this.id = id;
+            this.Name = name;
+            Salary= salary;
+           
 
 
         }
@@ -27,9 +27,9 @@ namespace DotNetApp.BasicTopics
         {
 
 
-            Console.WriteLine($"Employee:{Id}");
+            Console.WriteLine($"Employee:{id}");
             Console.WriteLine($"Employee:{Name}");
-            Console.WriteLine($"Employee:{Salary}");
+            Console.WriteLine($"Employee:{Salary}\n\n\n\n");
 
 
         }

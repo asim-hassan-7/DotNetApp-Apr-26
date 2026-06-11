@@ -7,8 +7,8 @@ namespace DotNetApp.BasicTopics
     internal class Student
     {
         public int id;
-        public string Name = "";
-        public string Adress = "";
+        public string Name ="";
+        public string Adress ="";
 
 
 
@@ -25,12 +25,12 @@ namespace DotNetApp.BasicTopics
 
         public void ShowStudentData() {
 
-            Console.WriteLine($"Roll No:{id}");
+            Console.WriteLine($"Id:{id}");
             Console.WriteLine($"Name:{Name}");
             Console.WriteLine($"Adress:{Adress}");
 
 
 
-        }                                       
+        }
     }
 }
